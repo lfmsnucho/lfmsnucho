@@ -31,9 +31,9 @@ I've have been code for 1 year and a half first i started with C language then s
 ### Stat Graph
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beau-beaubo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2&custom_title=Most%20Used%20Language" height="130" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=beau-beaubo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="60" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beau-beaubo&radius=16&theme=github-dark&area=true&order=5&custom_title=Activity%20Graph" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lfmsnucho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2&custom_title=Most%20Used%20Language" height="130" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=lfmsnucho&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="60" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfmsnucho&radius=16&theme=github-dark&area=true&order=5&custom_title=Activity%20Graph" height="150" alt="activity-graph graph"  />
 </p>
 
 ### Music
